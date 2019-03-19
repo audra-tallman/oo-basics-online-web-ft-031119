@@ -33,6 +33,7 @@ class Book
   end
  
   def turn_page
+      puts "Flimming the page...wow, you read fast!"
   end
  
 end
